@@ -23,5 +23,7 @@ As he said always
 > heute keinen hinkelstein
 > und der Zaubertrank
 
+and an impression:
+<img src="https://vignette.wikia.nocookie.net/asterix/images/9/9f/Asterix%2C_Obelix_%26_Dogmatix.png/revision/latest?cb=20110324122229">
 
 # 10
