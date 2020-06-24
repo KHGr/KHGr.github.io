@@ -1,5 +1,10 @@
+-----
 :title: C.'s favorite character
-# A website for my favourite character is currently being built here!
+-----
+# Who is this ..
 
-this to describe sth.
+This to describe  ...
+Sed id consequat quam, eget tristique mauris. Curabitur tincidunt cursus massa eu finibus. Suspendisse neque arcu, dignissim tempor nulla eu, lobortis porta quam. Integer non nisi porta, sagittis mi et, egestas nibh. Quisque ultrices vestibulum orci vitae mollis. In at felis arcu. Cras vel sapien a odio molestie sollicitudin. Mauris. 
 
+
+fix: # 04
